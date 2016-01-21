@@ -16,4 +16,4 @@ Just download the package and double click the `An Old Hope.terminal` file. Set 
 * [Karol Falkiewicz](@nosenation)
 
 ## License
-![MIT](https://raw.githubusercontent.com/Nosenation/an-old-hope-terminal/master/LICENSE.MD)
+MIT
