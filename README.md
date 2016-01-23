@@ -9,11 +9,10 @@ Just download the package and double click the `An Old Hope.terminal` file. Set 
 
 ![screenshot](https://raw.githubusercontent.com/Nosenation/an-old-hope-terminal/master/screenshots/1.0.0/screenshot.png)
 
-### Changelog
-- **1.0.0** - Initial version
+`NOTICE: I use ZSH shell with oh-my-zsh addon and gallifrey prompt theme.`
 
-## Author
-* [Karol Falkiewicz](@nosenation)
+## Changelog
+- **1.0.0** - Initial version
 
 ## License
 MIT
